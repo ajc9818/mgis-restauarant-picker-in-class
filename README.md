@@ -1,2 +1,2 @@
-# mgis-restauarant-picker-in-class
+# mgis-restaurant-picker-in-class
 in-class demo of the restaurant
